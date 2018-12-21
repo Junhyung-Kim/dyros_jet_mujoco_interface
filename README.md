@@ -1,1 +1,1 @@
-# dyros_jet_mujoco_interface
+# dyros_jet_mujoco_sim
